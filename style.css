@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+canvas {
+  max-width: 100%;
+}
+
+.btnBox {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+}
+.btnBox button {
+  display: inline-block;
+  padding: 5px 10px;
+}
